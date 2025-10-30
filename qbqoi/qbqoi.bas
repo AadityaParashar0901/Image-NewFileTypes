@@ -2,8 +2,6 @@
 ' By Aaditya Parashar
 ' References: https://en.wikipedia.org/wiki/QOI_(image_format)
 
-' Bug: Diff values are 1 value off from the correct byte
-
 $Console:Only
 Dim As _MEM M, M2
 For I = 1 To _CommandCount
